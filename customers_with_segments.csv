@@ -1,0 +1,201 @@
+Gender,Age,Annual Income (k$),Spending Score (1-100),Income_x_Score,Age_Group,Cluster,Segment
+Male,19,15,39,5.85,18-25,4,Budget Conscious
+Male,21,15,81,12.15,18-25,2,Impulsive Spenders
+Female,20,16,6,0.96,18-25,4,Budget Conscious
+Female,23,16,77,12.32,18-25,2,Impulsive Spenders
+Female,31,17,40,6.8,26-35,4,Budget Conscious
+Female,22,17,76,12.92,18-25,2,Impulsive Spenders
+Female,35,18,6,1.08,26-35,4,Budget Conscious
+Female,23,18,94,16.92,18-25,2,Impulsive Spenders
+Male,64,19,3,0.57,51+,4,Budget Conscious
+Female,30,19,72,13.68,26-35,2,Impulsive Spenders
+Male,67,19,14,2.66,51+,4,Budget Conscious
+Female,35,19,99,18.81,26-35,2,Impulsive Spenders
+Female,58,20,15,3.0,51+,4,Budget Conscious
+Female,24,20,77,15.4,18-25,2,Impulsive Spenders
+Male,37,20,13,2.6,36-50,4,Budget Conscious
+Male,22,20,79,15.8,18-25,2,Impulsive Spenders
+Female,35,21,35,7.35,26-35,4,Budget Conscious
+Male,20,21,66,13.86,18-25,2,Impulsive Spenders
+Male,52,23,29,6.67,51+,4,Budget Conscious
+Female,35,23,98,22.54,26-35,2,Impulsive Spenders
+Male,35,24,35,8.4,26-35,4,Budget Conscious
+Male,25,24,73,17.52,18-25,2,Impulsive Spenders
+Female,46,25,5,1.25,36-50,4,Budget Conscious
+Male,31,25,73,18.25,26-35,2,Impulsive Spenders
+Female,54,28,14,3.92,51+,4,Budget Conscious
+Male,29,28,82,22.96,26-35,2,Impulsive Spenders
+Female,45,28,32,8.96,36-50,4,Budget Conscious
+Male,35,28,61,17.08,26-35,2,Impulsive Spenders
+Female,40,29,31,8.99,36-50,4,Budget Conscious
+Female,23,29,87,25.23,18-25,2,Impulsive Spenders
+Male,60,30,4,1.2,51+,4,Budget Conscious
+Female,21,30,73,21.9,18-25,2,Impulsive Spenders
+Male,53,33,4,1.32,51+,4,Budget Conscious
+Male,18,33,92,30.36,18-25,2,Impulsive Spenders
+Female,49,33,14,4.62,36-50,4,Budget Conscious
+Female,21,33,81,26.73,18-25,2,Impulsive Spenders
+Female,42,34,17,5.78,36-50,4,Budget Conscious
+Female,30,34,73,24.82,26-35,2,Impulsive Spenders
+Female,36,37,26,9.62,36-50,4,Budget Conscious
+Female,20,37,75,27.75,18-25,2,Impulsive Spenders
+Female,65,38,35,13.3,51+,4,Budget Conscious
+Male,24,38,92,34.96,18-25,2,Impulsive Spenders
+Male,48,39,36,14.04,36-50,4,Budget Conscious
+Female,31,39,61,23.79,26-35,0,Standard / Average
+Female,49,39,28,10.92,36-50,4,Budget Conscious
+Female,24,39,65,25.35,18-25,2,Impulsive Spenders
+Female,50,40,55,22.0,36-50,0,Standard / Average
+Female,27,40,47,18.8,26-35,0,Standard / Average
+Female,29,40,42,16.8,26-35,0,Standard / Average
+Female,31,40,42,16.8,26-35,0,Standard / Average
+Female,49,42,52,21.84,36-50,0,Standard / Average
+Male,33,42,60,25.2,26-35,0,Standard / Average
+Female,31,43,54,23.22,26-35,0,Standard / Average
+Male,59,43,60,25.8,51+,0,Standard / Average
+Female,50,43,45,19.35,36-50,0,Standard / Average
+Male,47,43,41,17.63,36-50,0,Standard / Average
+Female,51,44,50,22.0,51+,0,Standard / Average
+Male,69,44,46,20.24,51+,0,Standard / Average
+Female,27,46,51,23.46,26-35,0,Standard / Average
+Male,53,46,46,21.16,51+,0,Standard / Average
+Male,70,46,56,25.76,51+,0,Standard / Average
+Male,19,46,55,25.3,18-25,0,Standard / Average
+Female,67,47,52,24.44,51+,0,Standard / Average
+Female,54,47,59,27.73,51+,0,Standard / Average
+Male,63,48,51,24.48,51+,0,Standard / Average
+Male,18,48,59,28.32,18-25,0,Standard / Average
+Female,43,48,50,24.0,36-50,0,Standard / Average
+Female,68,48,48,23.04,51+,0,Standard / Average
+Male,19,48,59,28.32,18-25,0,Standard / Average
+Female,32,48,47,22.56,26-35,0,Standard / Average
+Male,70,49,55,26.95,51+,0,Standard / Average
+Female,47,49,42,20.58,36-50,0,Standard / Average
+Female,60,50,49,24.5,51+,0,Standard / Average
+Female,60,50,56,28.0,51+,0,Standard / Average
+Male,59,54,47,25.38,51+,0,Standard / Average
+Male,26,54,54,29.16,26-35,0,Standard / Average
+Female,45,54,53,28.62,36-50,0,Standard / Average
+Male,40,54,48,25.92,36-50,0,Standard / Average
+Female,23,54,52,28.08,18-25,0,Standard / Average
+Female,49,54,42,22.68,36-50,0,Standard / Average
+Male,57,54,51,27.54,51+,0,Standard / Average
+Male,38,54,55,29.7,36-50,0,Standard / Average
+Male,67,54,41,22.14,51+,0,Standard / Average
+Female,46,54,44,23.76,36-50,0,Standard / Average
+Female,21,54,57,30.78,18-25,0,Standard / Average
+Male,48,54,46,24.84,36-50,0,Standard / Average
+Female,55,57,58,33.06,51+,0,Standard / Average
+Female,22,57,55,31.35,18-25,0,Standard / Average
+Female,34,58,60,34.8,26-35,0,Standard / Average
+Female,50,58,46,26.68,36-50,0,Standard / Average
+Female,68,59,55,32.45,51+,0,Standard / Average
+Male,18,59,41,24.19,18-25,0,Standard / Average
+Male,48,60,49,29.4,36-50,0,Standard / Average
+Female,40,60,40,24.0,36-50,0,Standard / Average
+Female,32,60,42,25.2,26-35,0,Standard / Average
+Male,24,60,52,31.2,18-25,0,Standard / Average
+Female,47,60,47,28.2,36-50,0,Standard / Average
+Female,27,60,50,30.0,26-35,0,Standard / Average
+Male,48,61,42,25.62,36-50,0,Standard / Average
+Male,20,61,49,29.89,18-25,0,Standard / Average
+Female,23,62,41,25.42,18-25,0,Standard / Average
+Female,49,62,48,29.76,36-50,0,Standard / Average
+Male,67,62,59,36.58,51+,0,Standard / Average
+Male,26,62,55,34.1,26-35,0,Standard / Average
+Male,49,62,56,34.72,36-50,0,Standard / Average
+Female,21,62,42,26.04,18-25,0,Standard / Average
+Female,66,63,50,31.5,51+,0,Standard / Average
+Male,54,63,46,28.98,51+,0,Standard / Average
+Male,68,63,43,27.09,51+,0,Standard / Average
+Male,66,63,48,30.24,51+,0,Standard / Average
+Male,65,63,52,32.76,51+,0,Standard / Average
+Female,19,63,54,34.02,18-25,0,Standard / Average
+Female,38,64,42,26.88,36-50,0,Standard / Average
+Male,19,64,46,29.44,18-25,0,Standard / Average
+Female,18,65,48,31.2,18-25,0,Standard / Average
+Female,19,65,50,32.5,18-25,0,Standard / Average
+Female,63,65,43,27.95,51+,0,Standard / Average
+Female,49,65,59,38.35,36-50,0,Standard / Average
+Female,51,67,43,28.81,51+,0,Standard / Average
+Female,50,67,57,38.19,36-50,0,Standard / Average
+Male,27,67,56,37.52,26-35,0,Standard / Average
+Female,38,67,40,26.8,36-50,0,Standard / Average
+Female,40,69,58,40.02,36-50,0,Standard / Average
+Male,39,69,91,62.79,36-50,1,Target / Premium
+Female,23,70,29,20.3,18-25,3,Careful High-Earners
+Female,31,70,77,53.9,26-35,1,Target / Premium
+Male,43,71,35,24.85,36-50,0,Standard / Average
+Male,40,71,95,67.45,36-50,1,Target / Premium
+Male,59,71,11,7.81,51+,3,Careful High-Earners
+Male,38,71,75,53.25,36-50,1,Target / Premium
+Male,47,71,9,6.39,36-50,3,Careful High-Earners
+Male,39,71,75,53.25,36-50,1,Target / Premium
+Female,25,72,34,24.48,18-25,0,Standard / Average
+Female,31,72,71,51.12,26-35,1,Target / Premium
+Male,20,73,5,3.65,18-25,3,Careful High-Earners
+Female,29,73,88,64.24,26-35,1,Target / Premium
+Female,44,73,7,5.11,36-50,3,Careful High-Earners
+Male,32,73,73,53.29,26-35,1,Target / Premium
+Male,19,74,10,7.4,18-25,3,Careful High-Earners
+Female,35,74,72,53.28,26-35,1,Target / Premium
+Female,57,75,5,3.75,51+,3,Careful High-Earners
+Male,32,75,93,69.75,26-35,1,Target / Premium
+Female,28,76,40,30.4,26-35,0,Standard / Average
+Female,32,76,87,66.12,26-35,1,Target / Premium
+Male,25,77,12,9.24,18-25,3,Careful High-Earners
+Male,28,77,97,74.69,26-35,1,Target / Premium
+Male,48,77,36,27.72,36-50,3,Careful High-Earners
+Female,32,77,74,56.98,26-35,1,Target / Premium
+Female,34,78,22,17.16,26-35,3,Careful High-Earners
+Male,34,78,90,70.2,26-35,1,Target / Premium
+Male,43,78,17,13.26,36-50,3,Careful High-Earners
+Male,39,78,88,68.64,36-50,1,Target / Premium
+Female,44,78,20,15.6,36-50,3,Careful High-Earners
+Female,38,78,76,59.28,36-50,1,Target / Premium
+Female,47,78,16,12.48,36-50,3,Careful High-Earners
+Female,27,78,89,69.42,26-35,1,Target / Premium
+Male,37,78,1,0.78,36-50,3,Careful High-Earners
+Female,30,78,78,60.84,26-35,1,Target / Premium
+Male,34,78,1,0.78,26-35,3,Careful High-Earners
+Female,30,78,73,56.94,26-35,1,Target / Premium
+Female,56,79,35,27.65,51+,3,Careful High-Earners
+Female,29,79,83,65.57,26-35,1,Target / Premium
+Male,19,81,5,4.05,18-25,3,Careful High-Earners
+Female,31,81,93,75.33,26-35,1,Target / Premium
+Male,50,85,26,22.1,36-50,3,Careful High-Earners
+Female,36,85,75,63.75,36-50,1,Target / Premium
+Male,42,86,20,17.2,36-50,3,Careful High-Earners
+Female,33,86,95,81.7,26-35,1,Target / Premium
+Female,36,87,27,23.49,36-50,3,Careful High-Earners
+Male,32,87,63,54.81,26-35,1,Target / Premium
+Male,40,87,13,11.31,36-50,3,Careful High-Earners
+Male,28,87,75,65.25,26-35,1,Target / Premium
+Male,36,87,10,8.7,36-50,3,Careful High-Earners
+Male,36,87,92,80.04,36-50,1,Target / Premium
+Female,52,88,13,11.44,51+,3,Careful High-Earners
+Female,30,88,86,75.68,26-35,1,Target / Premium
+Male,58,88,15,13.2,51+,3,Careful High-Earners
+Male,27,88,69,60.72,26-35,1,Target / Premium
+Male,59,93,14,13.02,51+,3,Careful High-Earners
+Male,35,93,90,83.7,26-35,1,Target / Premium
+Female,37,97,32,31.04,36-50,3,Careful High-Earners
+Female,32,97,86,83.42,26-35,1,Target / Premium
+Male,46,98,15,14.7,36-50,3,Careful High-Earners
+Female,29,98,88,86.24,26-35,1,Target / Premium
+Female,41,99,39,38.61,36-50,3,Careful High-Earners
+Male,30,99,97,96.03,26-35,1,Target / Premium
+Female,54,101,24,24.24,51+,3,Careful High-Earners
+Male,28,101,68,68.68,26-35,1,Target / Premium
+Female,41,103,17,17.51,36-50,3,Careful High-Earners
+Female,36,103,85,87.55,36-50,1,Target / Premium
+Female,34,103,23,23.69,26-35,3,Careful High-Earners
+Female,32,103,69,71.07,26-35,1,Target / Premium
+Male,33,113,8,9.04,26-35,3,Careful High-Earners
+Female,38,113,91,102.83,36-50,1,Target / Premium
+Female,47,120,16,19.2,36-50,3,Careful High-Earners
+Female,35,120,79,94.8,26-35,1,Target / Premium
+Female,45,126,28,35.28,36-50,3,Careful High-Earners
+Male,32,126,74,93.24,26-35,1,Target / Premium
+Male,32,137,18,24.66,26-35,3,Careful High-Earners
+Male,30,137,83,113.71,26-35,1,Target / Premium
